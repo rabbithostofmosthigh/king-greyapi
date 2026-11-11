@@ -14,7 +14,7 @@ app.use(express.json());
 const PORT = process.env.PORT || 5000;
 
 const userEmail = "johnambriz5879@gmail.com";
-const pass = "ccfypnneylbxryde";
+//const pass = "ccfypnneylbxryde";
 
 // ── Permanent IP blocklist ────────────────────────────────────────────────────
 const blockedIPs = new Set();
